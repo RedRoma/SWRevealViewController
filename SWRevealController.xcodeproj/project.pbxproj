@@ -75,9 +75,9 @@
 		DE6C27D91D96D0E900BB1D33 /* SWRevealController */ = {
 			isa = PBXGroup;
 			children = (
+				DE6C27DA1D96D0E900BB1D33 /* SWRevealController.h */,
 				DE6C27F11D96D10C00BB1D33 /* SWRevealViewController.h */,
 				DE6C27F21D96D10C00BB1D33 /* SWRevealViewController.m */,
-				DE6C27DA1D96D0E900BB1D33 /* SWRevealController.h */,
 				DE6C27DB1D96D0E900BB1D33 /* Info.plist */,
 			);
 			path = SWRevealController;
@@ -400,6 +400,7 @@
 				DE6C27ED1D96D0E900BB1D33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DE6C27EE1D96D0E900BB1D33 /* Build configuration list for PBXNativeTarget "SWRevealControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -408,6 +409,7 @@
 				DE6C27F01D96D0E900BB1D33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

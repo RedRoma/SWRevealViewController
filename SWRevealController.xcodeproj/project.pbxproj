@@ -10,7 +10,7 @@
 		DE6C27E11D96D0E900BB1D33 /* SWRevealController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE6C27D71D96D0E900BB1D33 /* SWRevealController.framework */; };
 		DE6C27E61D96D0E900BB1D33 /* SWRevealControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DE6C27E51D96D0E900BB1D33 /* SWRevealControllerTests.m */; };
 		DE6C27E81D96D0E900BB1D33 /* SWRevealController.h in Headers */ = {isa = PBXBuildFile; fileRef = DE6C27DA1D96D0E900BB1D33 /* SWRevealController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DE6C27F31D96D10C00BB1D33 /* SWRevealViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = DE6C27F11D96D10C00BB1D33 /* SWRevealViewController.h */; };
+		DE6C27F31D96D10C00BB1D33 /* SWRevealViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = DE6C27F11D96D10C00BB1D33 /* SWRevealViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE6C27F41D96D10C00BB1D33 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE6C27F21D96D10C00BB1D33 /* SWRevealViewController.m */; };
 /* End PBXBuildFile section */
 
